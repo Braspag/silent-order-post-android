@@ -1,0 +1,3 @@
+include ':silentorderpost'
+include ':app'
+rootProject.name = "Silent Order Post"
